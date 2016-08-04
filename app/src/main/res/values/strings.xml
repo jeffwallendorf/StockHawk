@@ -12,4 +12,5 @@
     <string name="add_widget">Add widget</string>
     <string name="symbol_example" translatable="false">GOOG</string>
     <string name="floating_action_button" translatable="false">Floating Action Button</string>
+    <string name="stock_in_list_message">This stock is already saved!</string>
 </resources>
